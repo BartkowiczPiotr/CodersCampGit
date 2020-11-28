@@ -1,2 +1,3 @@
 Nazywam się Piotr Bartkowicz, a to są ćwiczenia z podstaw git coders camp
 1. Aleksandra Żochowska
+2. Piotr Bartkowicz

@@ -3,3 +3,4 @@ Nazywam się Piotr Bartkowicz, a to są ćwiczenia z podstaw git coders camp
 2. Piotr Bartkowicz
 3. Piotr Bartkowicz - kopia
 4. Mateusz Michnikowski 
+5. Święty Mikołaj
